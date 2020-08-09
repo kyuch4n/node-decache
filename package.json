@@ -1,0 +1,19 @@
+{
+  "name": "node-decache",
+  "version": "1.0.0",
+  "description": "node decache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyuch4n/node-decache.git"
+  },
+  "author": "KYU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyuch4n/node-decache/issues"
+  },
+  "homepage": "https://github.com/kyuch4n/node-decache#readme"
+}
